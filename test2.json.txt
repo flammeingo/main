@@ -1,0 +1,6 @@
+{"name": "Danil",
+"age": "21",
+"weight":"55",
+"from":"Russia",
+"city":"N_Nov"
+}
